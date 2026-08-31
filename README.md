@@ -42,4 +42,4 @@ Adaptable Computer Science undergraduate with a strong interest in Business Anal
 ---
 
 ## 📄 Download Full Document
-👉 **[Click Here to Download My Official Resume PDF](https://githubusercontent.com)**
+👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_Itgeeks/blob/main/Tanishk_Navlakhe_ITgeeks.pdf)**
