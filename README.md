@@ -1,45 +1,25 @@
-# Tanishk Navlakhe 🚀
-**Indore, India | +91 9175197337 | tanishk.23bce10934@vitbhopal.ac.in**
+# Tanishk Navlakhe — Application for Business Analyst Role
+
+**Applicant:** Tanishk Navlakhe  
+**Email:** tanishk.23bce10934@vitbhopal.ac.in/ navlakhetanishk@gmail.com  
+**LinkedIn:** [linkedin.com/in/tanishk-navlakhe](https://www.linkedin.com/in/tanishk-navlakhe-703b792a7)  
+**GitHub:** [github.com/Tanishk2006](https://github.com/Tanishk2006)  
 
 ---
 
-## 👤 Profile Summary
-Adaptable Computer Science undergraduate with a strong interest in Business Analysis, backed by hands-on exposure to requirements gathering, structured documentation, data interpretation, and stakeholder-style coordination through certifications and training. Comfortable bridging business and technical needs — able to translate requirements into clear specs (as practiced through IEEE-format project documentation) while also holding technical grounding in databases, SDLC, and Generative AI tools. Strong communicator, quick learner, and open to Business Analyst and AI Developer roles.
+## About Me
 
----
+B.Tech Computer Science undergraduate at VIT Bhopal University (2023–2027, CGPA: 7.5).  
+Strong interest in Business Analysis and data-driven roles, with hands-on experience in structured documentation, data reporting, and Generative AI tools.
 
-## 🛠️ Skills & Technologies
-- **Business & Requirements Analysis:** Requirements Gathering, IEEE-Format Technical Documentation, Usability Testing, Data Interpretation, Stakeholder Coordination, SDLC
-- **Data & Analytical:** SQL, Database Management (DBMS), Data Cleaning, Data Preparation, Data Extraction
-- **Design & AI Tools:** UI & UX Design, Generative AI Tools (ChatGPT, Claude, Gemini), AI Image Generation
-- **Management & Coordination:** Project Management, Team Management, Conflict Management, Prioritization, Time Management
+## Why IT Geeks
 
----
+I'm applying for the Business Analyst role ) at IT Geeks. I'm drawn to the opportunity to work on real-world analytical problems and contribute to a team that values both business thinking and technical exposure.
 
-## 🚀 Training & Experience
-### Advanced Software Engineering & Development — Training Program *(Jun 2026 – Aug 2026)*
-- **Requirements Engineering:** Gathered and documented project requirements for a Library Management System, translating stakeholder needs into structured, IEEE-format technical specifications and reports.
-- **Full-Stack Application:** Applied SDLC stages end-to-end (requirements, database design, development, testing) for a full-stack Library Management System built with Node.js/Express and SQLite.
-- **Testing & Refinement:** Conducted usability testing and consolidated user feedback to refine workflows, improving overall user experience.
+## Projects
+- **RetainIQ** — BI analytics tool tracking KPIs for 1,000 simulated client accounts ([GitHub](https://github.com/Tanishk2006/Finance-Tip-Generator))
+- **InboundLeadFlow** — HubSpot-style lead pipeline simulation ([GitHub](https://github.com/Tanishk2006/InboundLeadFlow))
+- **AI-Powered Personal Finance Advisor** — Claude API + rule-based analysis engine ([GitHub](https://github.com/Tanishk2006/Finance-Tip-Generator))
 
----
-
-## 📜 Certifications
-- **Oracle Cloud Infrastructure:** 2025 Data Science Professional Certificate
-- **Oracle Cloud Infrastructure:** 2025 Generative AI Professional Certificate
-- **IBM:** Gen AI Using IBM WatsonX Certificate
-- **NASSCOM FutureSkills PRIME:** AWS Data Analytics *(In Progress)*
-- **Google/Coursera:** IT Tech Support Professional Certificate
-
----
-
-## 🎓 Education
-- **B.Tech, Computer Science & Engineering (CGPA: 7.5)** | 2023 – 2027  
-  *VIT Bhopal University*
-- **Higher Secondary (12th), Science (71%)**  
-  *Rankers International School, Indore, M.P.*
-
----
-
-## 📄 Download Full Document
+## 📄 Download Full Resume
 👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_Itgeeks/blob/main/Tanishk_Navlakhe_ITgeeks.pdf)**
