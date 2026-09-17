@@ -36,4 +36,4 @@ I'm applying for the Business Analyst role ) at IT Geeks. I'm drawn to the oppor
 * Conducted comprehensive usability testing and functional testing to eliminate workflow friction and refine system user flows.
 
 ## 📄 Download Full Resume
-👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_Itgeeks/blob/main/Tanishk_Navlakhe_Resume_ITGeeks_Personal.pdf)**
+👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_Itgeeks/blob/main/Tanishk_ITGeeks.pdf)**
