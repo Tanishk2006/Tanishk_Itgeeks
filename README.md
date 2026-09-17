@@ -22,4 +22,4 @@ I'm applying for the Business Analyst role ) at IT Geeks. I'm drawn to the oppor
 - **AI-Powered Personal Finance Advisor** — Claude API + rule-based analysis engine ([GitHub](https://github.com/Tanishk2006/Finance-Tip-Generator))
 
 ## 📄 Download Full Resume
-👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_Itgeeks/blob/main/Tanishk_Navlakhe_ITgeeks.pdf)**
+👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_Itgeeks/blob/main/Tanishk_Navlakhe_Resume_ITGeeks_Personal.pdf)**
