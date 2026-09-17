@@ -17,7 +17,7 @@ Strong interest in Business Analysis and data-driven roles, with hands-on experi
 I'm applying for the Business Analyst role ) at IT Geeks. I'm drawn to the opportunity to work on real-world analytical problems and contribute to a team that values both business thinking and technical exposure.
 
 ## Projects
-- **RetainIQ** — BI analytics tool tracking KPIs for 1,000 simulated client accounts ([GitHub](https://github.com/Tanishk2006/Finance-Tip-Generator))
+- **RetainIQ** — BI analytics tool tracking KPIs for 1,000 simulated client accounts ([GitHub](https://github.com/Tanishk2006/RetainIQ))
 - **InboundLeadFlow** — HubSpot-style lead pipeline simulation ([GitHub](https://github.com/Tanishk2006/InboundLeadFlow))
 - **AI-Powered Personal Finance Advisor** — Claude API + rule-based analysis engine ([GitHub](https://github.com/Tanishk2006/Finance-Tip-Generator))
 
